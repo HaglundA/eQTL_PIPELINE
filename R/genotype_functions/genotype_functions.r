@@ -5,7 +5,7 @@ generate_genotype_matrix=function(vcfs,
                                   preprocess=FALSE,
                                   autosomalonly=TRUE,
                                   minmaf=0.05,
-                                  chain_fpath="/usr/local/src/hg19ToHg38.over.chain.gz"){
+                                  chain_fpath="/usr/local/src/hg19ToHg38.over.chain"){
 
 
 
